@@ -19,7 +19,7 @@ Usage of InstaInsane for attacking targets without prior mutual consent is illeg
 
 ### Usage:
 ```
-git clone 
+git clone https://github.com/Zuck-Ker/brute2
 cd instainsane
 chmod +x instainsane.sh
 sudo ./instainsane.sh
